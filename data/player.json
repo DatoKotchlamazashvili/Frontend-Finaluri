@@ -1,0 +1,29 @@
+{
+  "name": "Cristiano Dos Santos Aveiro",
+  "tagline": "Greatest of All Time",
+  "note": "way better than messi Fr",
+  "photo": "assets/cr7.png",
+  "stats": [
+    { "label": "Career Goals", "value": 1000, "suffix": "+" },
+    { "label": "Champions League", "value": 5, "suffix": "" },
+    { "label": "Season", "value": 24, "suffix": "" }
+  ],
+  "highlights": [
+    {
+      "title": "UEFA Champions League Title",
+      "text": "5-time UEFA Champions League winner with Manchester United and Real Madrid. All-time leading scorer in the competition."
+    },
+    {
+      "title": "UEFA Champions League Title",
+      "text": "5-time UEFA Champions League winner with Manchester United and Real Madrid. All-time leading scorer in the competition."
+    },
+    {
+      "title": "UEFA Champions League Title",
+      "text": "5-time UEFA Champions League winner with Manchester United and Real Madrid. All-time leading scorer in the competition."
+    },
+    {
+      "title": "UEFA Champions League Title",
+      "text": "5-time UEFA Champions League winner with Manchester United and Real Madrid. All-time leading scorer in the competition."
+    }
+  ]
+}
