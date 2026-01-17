@@ -27,3 +27,14 @@
     }
   ]
 }
+Your website should be responsive and meet the following breakpoints: 1440px (desktop) and 420px (mobile).
+Make sure that the design looks and functions correctly on these screen sizes.
+In HTML, structure the website with appropriate semantic tags and highlight the capabilities of HTML5.
+Use the DRY principle.
+In CSS, use variables to describe colors.
+Add at least one animation using @KEYFRAMES.
+Use the :HOVER pseudo-elements with buttons.
+JavaScript requirements:
+The project must have a burger menu created using JavaScript (for the mobile version).
+You must use the fetch API. You can use either free public API endpoints (for example, JSONPlaceholder, TheMovieDB, etc.), or you can create JSON data of the desired content locally and use it.
+When scrolling using JavaScript, fix the header (position:fixed / position sticky)
